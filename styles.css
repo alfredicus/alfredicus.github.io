@@ -1,0 +1,12 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title-page {
+    border-radius: 5px;
+    border-style: double;
+    background-color: rgb(107, 107, 107);
+    color: white;
+    text-align: center;
+    box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.2);
+}
